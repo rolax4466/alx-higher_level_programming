@@ -1,3 +1,3 @@
 for number in range(99):
-    print("{} = {}".format(number, hex(number)))
+    print("{0} = {0:#x}".format(number))
 
